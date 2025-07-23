@@ -45,5 +45,3 @@ A fun and interactive browser-based game where players try to quickly click the 
 - HTML5
 - CSS3
 - JavaScript (Vanilla)
-
----
