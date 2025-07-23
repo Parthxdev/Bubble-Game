@@ -12,7 +12,12 @@ A fun and interactive browser-based game where players try to quickly click the 
 
 ## 🖼️ Game Preview
 
+<<<<<<< HEAD
 ![Bubble Game Screenshot](./Screenshot%202025-07-23%20182836.png) 
+=======
+![Bubble Game Screenshot]( <img width="1885" height="908" alt="Screenshot 2025-07-23 182836" src="https://github.com/user-attachments/assets/3359bd0d-70f2-4140-bdbc-38a86281a257" />
+ ) 
+>>>>>>> 5d251ff9f9f9ad4cd11a8329fdbd6b17e13bdb66
 
 ---
 
