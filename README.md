@@ -6,13 +6,13 @@ A fun and interactive browser-based game where players try to quickly click the 
 
 ## 🚀 Live Demo
 
-**[Play it on GitHub Pages](c:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot 2025-07-23 182836.png)** 
+**[Play it Now](https://bubble-game-55b22.web.app)** 
 
 ---
 
 ## 🖼️ Game Preview
 
-![Bubble Game Screenshot](./c:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot 2025-07-23 182836.png) 
+![Bubble Game Screenshot](./Screenshot%202025-07-23%20182836.png) 
 
 ---
 
